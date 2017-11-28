@@ -31,7 +31,7 @@ body {
 font-family: "MywebFont" !important;
 
 }
-div#wrapper.container-fluid {
+.container-fluid {
 
     padding-left: 0;
     padding-right: 0;
